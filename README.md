@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a shiny app
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 👯 I’m looking to collaborate on pilzLernAppGolem
+🌿 Studied M.Sc. Environmental Science <br/>
+💻 Most familiar with R, shiny, data science <br/>
+📚 Currently learning HTML, CSS and Javascript <br/>
+👯 I’m looking to collaborate on <a href="https://machmaleinheelflip.shinyapps.io/pilzLernAppGolem/"> pilzLernAppGolem </a> (see <a href="https://github.com/machmaleinheelflip/pilzLernAppGolem"> repo</a>) <br/>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack (at least some experience):
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=machmaleinheelflip&show_icons=true&locale=en&layout=compact" alt="machmaleinheelflip" /></p>
+
