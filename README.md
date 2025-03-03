@@ -2,7 +2,7 @@
 
 🌿 Studied M.Sc. Environmental Science <br/>
 💻 Most familiar with R, shiny, data science <br/>
-:deciduous_tree: scratched the surface of data science in: Mixed-Effect Models, Random Forest, Clustering
+:deciduous_tree: scratched the surface of data science in: Mixed-Effect Models, Random Forest, Clustering <br/>
 📚 Currently learning HTML, CSS and Javascript <br/>
 👯 I’m looking to collaborate on <a href="https://machmaleinheelflip.shinyapps.io/pilzLernAppGolem/"> pilzLernAppGolem </a> (see <a href="https://github.com/machmaleinheelflip/pilzLernAppGolem"> repo</a>) <br/>
 
